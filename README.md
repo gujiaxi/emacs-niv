@@ -9,7 +9,7 @@
 
 ## Intro
 
-Emacs-niv is inspired by [this article](http://jedi.org/blog/archives/004659.html).
+Emacs-niv is inspired by [this article](http://jedi.org/blog/archives/004659.html). It simply replaces all the "你" with "妳".
 
 In Chinese, **妳** is the female version of **你** but the former is not commonly used nowadays. In English, to the best of my knowledge, there is no such female version of **YOU**.
 
@@ -27,7 +27,6 @@ Clone [emacs-niv](https://github.com/gujiaxi/emacs-niv) to your `loadpath` and a
 After installation, several functions can be invoked by typing `M-x`:
 
 - `niv-buffer`: replace **你** with **妳** in the whole buffer.
-- `niv-paragraph`: not implemented yet.
 - `niv-region`: not implemented yet.
 
 ## Related
